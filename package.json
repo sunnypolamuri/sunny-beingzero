@@ -1,0 +1,19 @@
+{
+  "name": "sunny-beingzero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnypolamuri/sunny-beingzero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnypolamuri/sunny-beingzero/issues"
+  },
+  "homepage": "https://github.com/sunnypolamuri/sunny-beingzero#readme"
+}
